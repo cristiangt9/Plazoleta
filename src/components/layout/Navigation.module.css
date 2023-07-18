@@ -1,0 +1,36 @@
+.nav ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+.nav li {
+  margin-left: 1.5rem;
+  font-size: 1.25rem;
+}
+.usuario {
+  color: #ffffff;
+  text-decoration: underline;
+}
+.nav a {
+  cursor: pointer;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.nav a:hover {
+  color: #c7c5c5;
+}
+
+.active {
+  color: #c7c5c5 !important;
+}
+
+.buttonLogout {
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}

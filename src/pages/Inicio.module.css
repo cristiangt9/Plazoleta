@@ -1,0 +1,23 @@
+.Inicio {
+    padding: 2%;
+}
+
+.saldo {
+    font-size: 150%;
+}
+
+.saldoCard {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 2%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.saldoValor {
+    color: #f14c00;
+}
+
+.tituloInicio {
+    color: #fff;
+}
